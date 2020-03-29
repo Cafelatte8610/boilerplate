@@ -6,7 +6,7 @@ excerpt: 簡単な自己紹介です
 ---
 ---
 
-<a href="cafe8610.wp.xdomain.jp">ホームページは移動しました。こちらをご覧ください。</a>
+<a href="http://cafe8610.wp.xdomain.jp">ホームページは移動しました。こちらをご覧ください。</a>
 
 # 自己紹介
 
